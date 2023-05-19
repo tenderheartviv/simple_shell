@@ -1,4 +1,4 @@
-0x16. C - Simple Shell
+0x16. C - Simple Shell- a project built by two partners to round up sprint 1 of ALX SE
 Tasks
 0. Betty would be proud
 Write a beautiful code that passes the Betty checks
